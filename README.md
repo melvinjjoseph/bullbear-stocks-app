@@ -9,3 +9,11 @@ A stock trading application built using React(Frontend), Node.js and Express(Bac
 6. Return to the root directory and run ```npm run dev``` to start the development server
 7. Open ```localhost:5000``` in your browser.
 
+## Tools used 
+<a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;</a>-Front End Framework <br>
+
+<a href="https://nodejs.org/en"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;</a>
+<a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="ExpressJS" width="30" height="30"/>&nbsp;</a>-Back End Stack and routing<br>
+<a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgrSQL"  alt="PostgreSQL" width="30" height="30"/>&nbsp;</a>-Database<br>
+IEX Cloud API- Retrieve stock data<br>
+Chart.js- For plotting graphs to visual data
