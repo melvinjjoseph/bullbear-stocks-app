@@ -1,3 +1,4 @@
+### Note: Starting 15th June 2023 the free version of the IEX Cloud API no longer provides free access to financial data. To access financial data to need to get the paid version of the API at $19/month. 
 # Bullbear-Stocks-App
 A stock trading application built using React(Frontend), Node.js and Express(Backend) and PostgreSQL for database. It uses the IEX cloud API to retrieve stock data and Chart.js to visualize graphs.
 ## Getting started...
